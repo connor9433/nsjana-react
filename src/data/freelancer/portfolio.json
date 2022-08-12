@@ -1,0 +1,23 @@
+[
+  {
+    "class": "bx-one",
+    "number": "01.",
+    "title": "Seo & Smo Marketing",
+    "details": ["I can Rank your website on Google first page,", " With SMO Tell your local audience about your small business with facebook & instagram ADS."],
+    "image": "freelancer/img/works/7.png"
+  },
+  {
+    "class": "bx-two",
+    "number": "02.",
+    "title": "Android / iOS App",
+    "details": ["I can build Android and iOS App for your small business"],
+    "image": "freelancer/img/works/5.png"
+  },
+  {
+    "class": "bx-three",
+    "number": "03.",
+    "title": "Creative web design",
+    "details": ["Personal, Business, Ecommerce Website Development in WordPress"],
+    "image": "freelancer/img/works/2.png"
+  }
+]

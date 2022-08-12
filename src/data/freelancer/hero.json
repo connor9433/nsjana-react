@@ -1,0 +1,33 @@
+{
+  "circles": [
+    {
+      "icon": "pe-7s-mouse",
+      "titleTop": "SEO / SMO", 
+      "titleBottom": "Marketing" 
+    },
+    {
+      "icon": "pe-7s-global",
+      "titleTop": "Web", 
+      "titleBottom": "Development" 
+    },
+    {
+      "icon": "pe-7s-phone",
+      "titleTop": "App", 
+      "titleBottom": "Aevelopment" 
+    }
+  ],
+  "about": {
+    "quote": "Design is not how you think,design is how it works.a life changing statement by jobs.",
+    "details": "I started my journey with Google Blogger, Opened my Tech blog in 2014 with WordPress, and continue learning WordPress Development. Created personal, business and Ecommerce websites for many clients and now started the journey in Android flutter."
+  },
+  "numbers": [
+    {
+      "title": "successful projects",
+      "value": "100%"
+    },
+    {
+      "title": "completed projects",
+      "value": "20 +"
+    }
+  ]
+}
